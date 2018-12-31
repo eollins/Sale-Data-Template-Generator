@@ -1,0 +1,1 @@
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\bin\Debug\Template Generator.exe.config
