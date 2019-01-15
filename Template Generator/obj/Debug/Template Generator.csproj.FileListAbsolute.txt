@@ -1,1 +1,10 @@
 c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\bin\Debug\Template Generator.exe.config
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\bin\Debug\Template Generator.exe
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\bin\Debug\Template Generator.pdb
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\obj\Debug\Template Generator.csprojResolveAssemblyReference.cache
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\obj\Debug\Template_Generator.MainForm.resources
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\obj\Debug\Template_Generator.Properties.Resources.resources
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\obj\Debug\Template Generator.csproj.GenerateResource.Cache
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\obj\Debug\Template Generator.exe
+c:\users\ethanollins\documents\visual studio 2015\Projects\Template Generator\Template Generator\obj\Debug\Template Generator.pdb
+C:\Users\EthanOllins\documents\visual studio 2015\Projects\Template Generator\Template Generator\bin\Debug\Sets.txt
